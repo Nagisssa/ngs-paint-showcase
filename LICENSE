@@ -1,0 +1,104 @@
+# Ngs Paint Freeware License 1.1
+# Ngs Paint 免费闭源许可 1.1
+
+Copyright (c) 2026 Nagisssa. All rights reserved.
+版权所有 (c) 2026 Nagisssa。保留所有权利。
+
+Version 1.1 — 2026-11-24
+版本 1.1 — 2026-11-24
+
+This License is written in Chinese and English. If the two versions conflict, the Chinese version prevails.
+本许可同时提供中文和英文文本；如有冲突，以中文文本为准。
+
+---
+
+## 1. Definitions / 定义
+
+1.1 "Software" means the Ngs Paint application distributed under this License, including the APK, resources, documentation and any updates, but excluding the source code.
+“软件”指依据本许可分发的 Ngs Paint 应用，包括 APK、资源、文档及其更新，但不包括源代码。
+
+1.2 "Author" means the copyright holder named above.
+“作者”指上述版权持有人。
+
+1.3 "You" means any person or entity that installs, uses or redistributes the Software.
+“你”指安装、使用或转发本软件的任何个人或实体。
+
+## 2. Grant of License / 授权
+
+Subject to this License, the Author grants You a worldwide, royalty-free, non-exclusive, non-transferable license to:
+在遵守本许可的前提下，作者授予你一项全球范围、免版税、非独占、不可转让的许可，允许你：
+
+(a) install and run the Software on devices You own or control;
+（a）在你拥有或控制的设备上安装、运行本软件；
+
+(b) use the Software for any purpose, including creating commercial artwork;
+（b）将本软件用于任何目的，包括创作商业作品；
+
+(c) redistribute unmodified copies of the Software free of charge, provided this License (or a link to it) is included and the copy is not modified.
+（c）免费转发本软件的**未经修改的完整副本**，前提是附带本许可（或其链接），且副本未被修改。
+
+Artwork created with the Software belongs to You. The Author claims no ownership of Your artwork.
+你使用本软件创作的作品归你所有；作者不对你的作品主张任何权利。
+
+## 3. Restrictions / 限制
+
+You may not:
+你不得：
+
+(a) modify, adapt, translate, or create derivative works of the Software;
+（a）修改、改编、翻译本软件，或创作衍生作品；
+
+(b) reverse engineer, decompile, or disassemble the Software, except to the extent permitted by applicable mandatory law;
+（b）反向工程、反编译或反汇编本软件，但适用法律强制允许的除外；
+
+(c) sell, rent, lease, sublicense, or charge for the Software or its installation;
+（c）销售、出租、转授权本软件，或就本软件或其安装收取费用；
+
+(d) remove or alter any copyright, license, or attribution notice;
+（d）删除或修改任何版权、许可或署名声明；
+
+(e) distribute modified copies, or embed the Software in another product for redistribution;
+（e）分发修改后的副本，或将本软件嵌入其他产品再分发；
+
+(f) use the Author's name, logo, or the Ngs Paint name to endorse a derivative product without written permission.
+（f）未经书面许可，使用作者姓名、Logo 或 Ngs Paint 名称为你自己的产品背书。
+
+## 4. Third-Party Components / 第三方组件
+
+The Software includes third-party components, including AndroidX, Jetpack Compose and Kotlin, licensed under the Apache License 2.0, and test-only components under their respective licenses. Those components remain governed by their own licenses; nothing in this License limits rights granted by them. See THIRD-PARTY-NOTICES.md.
+本软件包含第三方组件，包括以 Apache License 2.0 授权的 AndroidX、Jetpack Compose 和 Kotlin，以及仅用于测试的组件。这些组件仍适用其各自许可；本许可不限制这些许可授予的权利。详见 THIRD-PARTY-NOTICES.md。
+
+## 5. No Source Code / 不提供源代码
+
+The Software is provided in binary form only. No source code is provided under this License.
+本软件仅以二进制形式提供；本许可不提供源代码。
+
+## 6. Termination / 终止
+
+This License terminates automatically if You breach any of its terms. On termination, You must stop using the Software and delete all copies in Your possession or control. Sections 3, 4, 6, 7, 8, 9 and 10 survive termination.
+如果你违反本许可的任何条款，本许可自动终止。终止后，你必须停止使用本软件，并删除你持有或控制的所有副本。第 3、4、6、7、8、9、10 条在终止后继续有效。
+
+## 7. Disclaimer of Warranty / 无担保
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. You use the Software at Your own risk.
+本软件按“现状”提供，不提供任何明示或暗示的担保，包括但不限于适销性、特定用途适用性和不侵权的担保。你使用本软件的风险由你自行承担。
+
+## 8. Limitation of Liability / 责任限制
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS, OR BUSINESS, ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+在法律允许的最大范围内，作者不对因本软件或本许可引起的任何间接、附带、特殊、后果性或惩罚性损害，或任何数据、利润、业务损失承担责任，即使已被告知该等损害的可能性。
+
+## 9. Future Versions / 未来版本
+
+The Author may release future versions of the Software under different terms, including paid or commercial licenses. Copies already distributed under this License remain governed by this License.
+作者可以以不同条款发布本软件的未来版本，包括付费许可或商业许可。已经依据本许可分发的副本，仍适用本许可。
+
+## 10. Governing Law / 适用法律
+
+This License is governed by the laws of the People's Republic of China, without regard to conflict-of-law rules. Any dispute shall be submitted to the competent court in the Author's place of residence.
+本许可适用中华人民共和国法律（不含冲突法规则）。任何争议应提交作者住所地有管辖权的人民法院。
+
+## 11. Contact / 联系方式
+
+For permissions beyond this License, contact: 1798514750@qq.com
+如需本许可之外的授权，请联系：1798514750@qq.com
